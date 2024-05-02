@@ -20,13 +20,13 @@ This repository is a collection of projects that I'm actively working on to enha
 3. Create a new Conda environment from the provided environment.yml file:
 
    ```bash
-   conda env create -n rlenv --file environment.yml
+   conda env create -n myenv --file environment.yml
    ```
 
-   This command will create a new Conda environment named "rlenv" based on the specifications in the environment.yml file.
+   Replace `myenv` with your preferred environment name.
 
 4. Activate the newly created environment:
    ```bash
-   conda activate rlenv
+   conda activate myenv
    ```
    Now you're ready to use the project within this environment.
