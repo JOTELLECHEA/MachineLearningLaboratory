@@ -2,7 +2,7 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what the project does, its purpose, and any key features or functionalities.
+This repository is a collection of projects that I'm actively working on to enhance my skills and understanding in machine learning. Each project represents a unique challenge and opportunity for me to delve deeper into various aspects of ML, experiment with different algorithms, and explore new techniques.
 
 ## Installation
 
