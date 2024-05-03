@@ -2,7 +2,7 @@
 
 ## Description
 
-TBA
+This setup mirrors the cart-pole scenario outlined in Barto, Sutton, and Anderson's paper, "Neuronlike Adaptive Elements That Can Solve Difficult Learning Control Problem." It involves a pole connected to a cart via a passive joint, traveling along a smooth track. The pole is positioned vertically on the cart, and the objective is to maintain its balance by exerting forces in either direction on the cart. In this implementation, PyTorch and the Gymnasium library are utilized to train reinforcement learning agents, allowing for the development and evaluation of intelligent control strategies for balancing the pole-cart system.
 
 ## Project's tree
 
