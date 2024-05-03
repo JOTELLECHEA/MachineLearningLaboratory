@@ -4,6 +4,10 @@
 
 This repository is a collection of projects that I'm actively working on to enhance my skills and understanding in machine learning. Each project represents a unique challenge and opportunity for me to delve deeper into various aspects of ML, experiment with different algorithms, and explore new techniques.
 
+## Project's
+
+- Reinforcement Learning
+
 ## Installation
 
 1. Clone the repository:
@@ -15,7 +19,7 @@ This repository is a collection of projects that I'm actively working on to enha
 
 2. Navigate to the project directory:
    ```bash
-   cd MachineLearningLaboratory/ReinforcementLearning/
+   cd MachineLearningLaboratory/
    ```
 3. Create a new Conda environment from the provided environment.yml file:
 
